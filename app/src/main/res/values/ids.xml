@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="progressBar" type="id" />
+    <item name="tvForgetPassword" type="id" />
+    <item name="tvPinCode" type="id" />
+    <item name="tvDepartment" type="id" />
+    <item name="tvNagarsevak" type="id" />
+    <item name="tvStatus" type="id" />
+    <item name="tvName" type="id" />
+    <item name="ivPostImage" type="id" />
+    <item name="ivStatus" type="id" />
+    <item name="ivMap" type="id" />
+    <item name="tvLocation" type="id" />
+    <item name="tvTime" type="id" />
+    <item name="tvAddress" type="id" />
+    <item name="ivUserProfile" type="id" />
+    <item name="blog_like" type="id" />
+    <item name="blog_Comment" type="id" />
+    <item name="user_blog_list_view" type="id" />
+    <item name="tvSolvedPost" type="id" />
+    <item name="tvUnSolvedPost" type="id" />
+    <item name="ivProfile_pic" type="id" />
+    <item name="mainContainer_user" type="id" />
+</resources>

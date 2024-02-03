@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "111438537476",
+    "project_id": "mycityapp-41689",
+    "storage_bucket": "mycityapp-41689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111438537476:android:513b646e10a12f58c9a651",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBol3qfyovTEj0VCiQhOu2TbyQzXBN3rG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111438537476:android:0d4626fd9e054053c9a651",
+        "android_client_info": {
+          "package_name": "com.singhbrotherseducare.mycity_act"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBol3qfyovTEj0VCiQhOu2TbyQzXBN3rG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
