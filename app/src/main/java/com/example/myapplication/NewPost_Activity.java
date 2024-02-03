@@ -410,8 +410,7 @@ public class NewPost_Activity extends AppCompatActivity
         }
 
 
-        LocationServices.FusedLocationApi.requestLocationUpdates(mGoogleApiClient,
-                mLocationRequest
+        FusedLocationProviderClient fusedLocationProviderClient;
     }
 }
 
